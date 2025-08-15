@@ -47,8 +47,11 @@ Test and monitor - Backtesting with 6~8 years of data would help us to refine th
 Goal → Stage → Deliverable - <Goal A> → Problem Framing & Scoping (Stage 01) → <Deliverable X> - ... 
 
 1. Predict next-day stock price movement​​ → Problem Framing & Scoping (Stage 01) → Project Charter & Scoping Document
+
 ​​2. Build predictive model​​ → Data Collection & Preprocessing (Stage 02) → Cleaned Dataset & Feature Engineering Report
+
 3. Improve model​​ → Model Development & Testing (Stage 03) → Trained Model and Backtesting Results
+
 4. Deploy for user access​​ → Implementation and Monitoring (Stage 04) → Probability Prediction program ready to use
 
 ## Repo Plan 
