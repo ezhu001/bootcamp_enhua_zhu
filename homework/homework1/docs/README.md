@@ -6,13 +6,13 @@
 
 <1–2 paragraphs: what problem & why it matters> 
 
-This project aims to predict the probability that a given stock’s price will rise the next trading day based on its historical price and volume data. Specifically, when given the input of an arbitrary stock ticket alongside its key daily prices (Open, Close, High, Low) and Volume for the last 365 calendar days, we want to output a number in the range of 0 to 1 indicating the likelihood that the stock’s closing price tomorrow will exceed today’s closing price.
+This project aims to predict the probability that a given stock’s price will rise the next trading day based on its historical price and volume data. Specifically, when given the input of an arbitrary stock ticket alongside its key daily prices (Open, Close, High, Low) and Volume for the last 365 calendar days, we want to output a number in the range of 0 to 1 indicating the likelihood that the stock’s closing price tomorrow will exceed today’s closing price. It assists in predicting stock's short-term performance.
 
 ## Stakeholder & User
 
 <Who decides? Who uses the output? Timing & workflow context> 
 
-Primary users identified are individual, short-term (or even over-night) stock investors who are eager to predict how well a single stock behaves and to make the decision on whether to buy it. It provides a quantitative, clear, and intuitive measurement on how good the stock is for now given its past performance, and can be easily interpreted.
+Primary users identified are individual, short-term (or even over-night) stock investors who are eager to predict how well a single stock behaves and to make the decision on whether to buy it. It provides a quantitative, clear, and intuitive measurement on how good the stock is for now given its past performance, and can be easily interpreted. The timeframe is usually daily as described in problem statement.
 
 ## Useful Answer & Decision 
 
