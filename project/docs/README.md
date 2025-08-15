@@ -1,4 +1,4 @@
-# Project Title 
+# Next-Day Stock Rise Probability Predictor
 
 **Stage:** Problem Framing & Scoping (Stage 01) 
 
