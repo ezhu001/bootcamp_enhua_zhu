@@ -4,7 +4,7 @@
 
 ## Problem Statement 
 
-### <1–2 paragraphs: what problem & why it matters> 
+<1–2 paragraphs: what problem & why it matters> 
 
 This project aims to predict the probability that a given stock’s price will rise the next trading day based on its historical price and volume data. Specifically, when given the input of an arbitrary stock ticket alongside its key daily prices (Open, Close, High, Low) and Volume for the last 365 calendar days, we want to output a number in the range of 0 to 1 indicating the likelihood that the stock’s closing price tomorrow will exceed today’s closing price.
 
@@ -46,9 +46,9 @@ Test and monitor - Backtesting with 6~8 years of data would help us to refine th
 
 Goal → Stage → Deliverable - <Goal A> → Problem Framing & Scoping (Stage 01) → <Deliverable X> - ... 
 
-1. Predict next-day stock price movement​​ → Problem Framing & Scoping (Stage 01) → Project Charter & Scoping Document
+1. Predict next-day stock price movement​​ → Problem Framing & Scoping (Stage 01) → Project Scoping Document
 
-​​2. Build predictive model​​ → Data Collection & Preprocessing (Stage 02) → Cleaned Dataset & Feature Engineering Report
+​​2. Build predictive model​​ → Data Collection & Preprocessing (Stage 02) → Datasets and Program
 
 3. Improve model​​ → Model Development & Testing (Stage 03) → Trained Model and Backtesting Results
 
