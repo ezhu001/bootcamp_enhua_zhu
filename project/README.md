@@ -106,4 +106,14 @@ This project uses ALPHAVANTAGE and Yahoo Finance for data fetching
   3. **Format changes** – while APIs generally provide structured and consistent formats (e.g., JSON), there is still some risk of format changes.  
 
 ---
+# Assumptions and preprocessing ideas:
 
+- 1. Missing values are forward-filled (assume that the price did not change in case of price missing; it might be a non-trading day)
+
+- 2. Outliers removed for apparently wrong value, as it would be almost not reasonable to have price that fluctuate this much. But 
+I am also thinking of not to remove outliers for some stocks known to be highly volatile
+
+- 3. Normalized volumes to reflect change in volumes in a more clear way
+
+- 4. Adding the "returns" for showing how price changes alone the way, which would be useful in future processing of data.
+(I asked GPT for some inspirations on this)
