@@ -1,15 +1,4 @@
-\# Data Cleaning Utilities
-
-
-
-This module provides simple, reusable functions for cleaning and preprocessing tabular datasets with \*\*pandas\*\* and \*\*scikit-learn\*\*.
-
-
-
-The following functions are included:
-
-
-
+\# Data Cleaning Functions in which I prepared documentation strings and the assumptions; they are all included in the README.md
 ---
 
 
