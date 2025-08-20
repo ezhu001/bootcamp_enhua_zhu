@@ -1,7 +1,5 @@
 # Next-Day Stock Rise Probability Predictor
 
-**Stage:** Problem Framing & Scoping (Stage 01) 
-
 ## Problem Statement 
 
 <1–2 paragraphs: what problem & why it matters> 
