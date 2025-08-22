@@ -1,7 +1,5 @@
 # Next-Day Stock Rise Probability Predictor
 
-**Stage:** Problem Framing & Scoping (Stage 01) 
-
 ## Problem Statement 
 
 <1–2 paragraphs: what problem & why it matters> 
@@ -106,7 +104,7 @@ This project uses ALPHAVANTAGE and Yahoo Finance for data fetching
   3. **Format changes** – while APIs generally provide structured and consistent formats (e.g., JSON), there is still some risk of format changes.  
 
 ---
-# Assumptions and preprocessing ideas:
+# Assumptions and explanation for data cleaning and preprocessing:
 
 - 1. Missing values are forward-filled (assume that the price did not change in case of price missing; it might be a non-trading day)
 
